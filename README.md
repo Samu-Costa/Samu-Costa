@@ -3,9 +3,11 @@ Olá, me chamo Samuel sou estudante do curso de Ciência da Computação na UFBA
 
 Eu também sou formado em Eletrônica pelo IFBA e foi lá que eu tive realmente o primeiro contato com programação, no inicio do curso viamos toda a base de lógica de programação em linguagem Pascal, e no último anos programavamos microcontroladores para fazer diversos projetos, para isso utilizavamos Assembly e C (Obs: Até hoje tenho trauma disso rsrs), embora fosse realmente bem complicado conseguir acompanhar tudo o meu interesse pela área foi só crescendo e continua assim até hoje.
 
+Atualmente estou estagiando no IBAMA no setor de suporte técnico de T.I, ou seja, preciso trabalhar minha comunicação (e paciência) diariamente.
+
 Sou membro efetivo da TITAN (Empresa Jr. de Eng.Comp da UFBA) atuando na diretoria comercial, o que tem sido um grande aprendizado e uma oportunidade de adquirir experiência tanto de vida quanto profissional. (Melhor escolha que eu ja fiz na minha vida).
 
-E agora estou aqui participando do PT-DEV Back-End para quem sabe colocar a mão na massa e participar de alguns projetos no futuro.
+E agora estou participando do PT-DEV Back-End para quem sabe colocar a mão na massa e participar de alguns projetos no futuro.
 
 
 ## Habilidades Técnicas 💻
