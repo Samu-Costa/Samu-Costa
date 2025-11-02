@@ -1,5 +1,5 @@
 ## Sobre mim👋
-Olá me chamo Samuel, sou estudante do curso de Ciência da Computação na UFBA, desde novo sempre tive interesse por tecnologia principalmente computadores e esse interesse fez com que eu buscasse cada vez mais sobre a área de T.I não somente sobre programação em si mas também a parte de redes, hardware, etc.
+Olá, me chamo Samuel sou estudante do curso de Ciência da Computação na UFBA, desde novo sempre tive interesse por tecnologia principalmente computadores e esse interesse fez com que eu buscasse cada vez mais sobre a área de T.I não somente sobre programação em si mas também a parte de redes, hardware, etc.
 
 Eu também sou formado em Eletrônica pelo IFBA e foi lá que eu tive realmente o primeiro contato com programação, no inicio do curso viamos toda a base de lógica de programação em linguagem Pascal, e no último anos programavamos microcontroladores para fazer diversos projetos, para isso utilizavamos Assembly e C (Obs: Até hoje tenho trauma disso rsrs), embora fosse realmente bem complicado conseguir acompanhar tudo o meu interesse pela área foi só crescendo e continua assim até hoje.
 
@@ -47,8 +47,8 @@ Não acredito que será fácil mas para quem foi criado na base do Assembly e do
 
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/costasamu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelcostasales@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costasamu)
+
 
 
 
